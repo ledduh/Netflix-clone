@@ -1,0 +1,74 @@
+@media screen and (min-width: 800px) {
+	body{
+		margin: 1em 2em;
+	}
+}
+body {
+	background-color: floralwhite;
+	background-image: url('C:/Users/Administrator/Downloads/1.jpg');
+	background-size: cover;
+}
+
+#header {
+	font-family: sans-serif;
+	color: #e50914;
+	font-size: 30px;
+}
+
+#footer {
+	font-style: italic;
+}
+
+#sec1 {
+	text-align: center;
+	font-size: 48px;
+	font-family: sans-serif;
+	color: white;
+}
+#p.sec1 {
+	margin: 0;
+	display: inline;
+	float: none;
+}
+#sec2 {
+	font-size: 48px;
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+
+}
+#sec3 {
+	font-size: 20px;
+	font-family: sans-serif;
+	text-align: center;
+	color: white;
+}
+
+#ename {
+	display: block;
+	margin: auto;
+	width: 400px;
+}
+#sname {
+	display: block;
+	margin-top: 8px;
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: sans-serif;
+	background-color: #e50914;
+	border-radius: 4px;
+	color: white;
+
+}
+#button2{
+	background-color: #e50914;
+	border-radius: 4px;
+	border-color: #e50914;
+	font-family: sans-serif;
+	font-weight: 400;
+	display: block;
+	margin-right: 0;
+	margin-left: auto;
+	color: white;
+}
